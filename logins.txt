@@ -1,0 +1,5 @@
+USERNAME | PASSWORD | MAX TIME | EXPIRY DATE | VIP | ADMIN | COOLDOWN | BAN
+
+root:root:300:2026-11-20:1:True:True:30:False
+roots:roots:300:2026-11-20:1:False:False:30:True
+
